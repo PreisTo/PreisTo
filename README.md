@@ -10,4 +10,3 @@ Some of my current involvements:
 
 
 ![Stats](./profile/stats.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
