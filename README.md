@@ -9,4 +9,4 @@ Some of my current involvements:
 - [gammapy-plugin](https://github.com/threeML/gammapy-plugin) a `gammapy` plugin for `threeML`
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PreisTo)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
